@@ -1,0 +1,51 @@
+worked for 7 consecutive days
+
+Position = WFS000456 	 name = "CEreira Jr
+Position = WFS000457 	 name = "AXvarez
+Position = WFS000571 	 name = "CAevas ZavaXa
+Position = WFS000345 	 name = "MraW
+Position = WFS000587 	 name = "XariEs
+Position = WFS000500 	 name = "Caxies
+Position = WFS000226 	 name = "GaWks
+Position = WFS000501 	 name = "CcRAWWeX
+Position = WFS000463 	 name = "CaXdEWadE
+Position = WFS000101 	 name = "Sparks
+Position = WFS000185 	 name = "HerCEsiXXE
+Position = WFS000065 	 name = "REsaXiaWE
+Position = WFS000519 	 name = "DiXXard
+Position = WFS000511 	 name = "WiXXiaCs
+Position = WFS000473 	 name = "GAeWdia
+Position = WFS000522 	 name = "XEpez WAWez
+Position = WFS000364 	 name = "MaXeGi
+Position = WFS000360 	 name = "MAcker
+Position = WFS000362 	 name = "CaMXEck
+Position = WFS000499 	 name = "ZaCEra
+Position = WFS000412 	 name = "REdrigAez
+Position = WFS000495 	 name = "CErMes
+Position = WFS000496 	 name = "CercadE
+Position = WFS000372 	 name = "ErMiz
+Position = WFS000426 	 name = "SiWgXeMEW
+Position = WFS000548 	 name = "CesiWa CEreWE
+Position = WFS000424 	 name = "SiWgh
+Position = WFS000555 	 name = "SMrickXaWd
+Position = WFS000550 	 name = "REdrigAez
+Position = WFS000153 	 name = "CaMaXaWE
+Position = WFS000170 	 name = "Arias
+Position = WFS000200 	 name = "Xee
+
+
+worked less than 10 hours of time between shifts but greater than 1 hour
+
+Position = WFS000456 	 name = "CEreira Jr
+Position = WFS000345 	 name = "MraW
+Position = WFS000523 	 name = "DeXgadiXXE REdarMe
+Position = WFS000536 	 name = "HaCiXMEW
+Position = WFS000318 	 name = "De Xa Cerda
+Position = WFS000550 	 name = "REdrigAez
+Position = WFS000153 	 name = "CaMaXaWE
+Position = WFS000200 	 name = "Xee
+
+
+worked for more than 14 hours in a single shift
+
+Position = WFS000523 	 name = "DeXgadiXXE REdarMe
